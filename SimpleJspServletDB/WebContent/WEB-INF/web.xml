@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+    <display-name>SimpleJspServletDB</display-name>
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+    <servlet>
+        <description/>
+        <display-name>UserController</display-name>
+        <servlet-name>UserController</servlet-name>
+        <servlet-class>prog.web.controller.UserController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserController</servlet-name>
+        <url-pattern>/UserController</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <description/>
+        <display-name>NotificacaoController</display-name>
+        <servlet-name>NotificacaoController</servlet-name>
+        <servlet-class>prog.web.controller.ConexaoController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>NotificacaoController</servlet-name>
+        <url-pattern>/NotificacaoController</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <description/>
+        <display-name>ConexaoController</display-name>
+        <servlet-name>ConexaoController</servlet-name>
+        <servlet-class>prog.web.controller.NotificacoesController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ConexaoController</servlet-name>
+        <url-pattern>/ConexaoController</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <description/>
+        <display-name>ClienteController</display-name>
+        <servlet-name>ClienteController</servlet-name>
+        <servlet-class>prog.web.controller.ClienteController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ClienteController</servlet-name>
+        <url-pattern>/ClienteController</url-pattern>
+    </servlet-mapping>
+</web-app>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/WebContent/cliente.jsp</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/WebContent/index.jsp</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/prog/web/controller/ClienteController.java</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/prog/web/util/DbUtil.java</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/WebContent/clienteLista.jsp</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/WebContent/conexaoLista.jsp</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/WebContent/WEB-INF/web.xml</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/WebContent/WEB-INF/glassfish-web.xml</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/prog/web/model/Conexao.java</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/prog/web/model/Cliente.java</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/WebContent/META-INF/MANIFEST.MF</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/db.properties</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/prog/web/dao/ConexaoDao.java</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/WebContent/notificacaoLista.jsp</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/prog/web/dao/NotificacoesDao.java</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/prog/web/controller/ConexaoController.java</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/prog/web/controller/NotificacoesController.java</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/WebContent/listUser.jsp</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/prog/web/dao/ClienteDao.java</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/WebContent/bootstrap/css/bootstrap.css</file>
+            <file>file:/home/nataniel/Área%20de%20Trabalho/Gerenciamento%20de%20notificações/GerenciamentoNotificacoes/SimpleJspServletDB/src/prog/web/model/Notificacoes.java</file>
+        </group>
+    </open-files>
+</project-private>
